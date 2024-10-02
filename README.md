@@ -1,0 +1,1 @@
+# trimed_financ_django
